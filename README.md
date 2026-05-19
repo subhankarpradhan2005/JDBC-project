@@ -1,5 +1,10 @@
 # Project Title
 **🎓 University Management System**
+<h1 align="center">🎓 University Management System</h1>
+
+<p align="center">
+Java + MySQL + JDBC Mini Project
+</p>
 
 ## Features
 
