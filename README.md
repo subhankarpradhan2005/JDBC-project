@@ -7,7 +7,7 @@ Java + MySQL + JDBC Mini Project
 
 ## Features
 
-**The project supports the following operations:**
+**The project supports the following operations :**
 
 1. Show Student Records
 2. Add Student Record
